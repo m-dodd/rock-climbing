@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 *.zip
 data/input/*.csv
+data/cleaned/*.csv
