@@ -1,0 +1,4 @@
+*.sqlite
+.ipynb_checkpoints
+*.zip
+data/input/*.csv
