@@ -1,6 +1,6 @@
 # Rock Climbing Analysis
 
-![Where it all began](Grassi-Lakes-Alberta-Canada-James-Tan.jpg)
+![Where it all began](imgs/Grassi-Lakes-Alberta-Canada-James-Tan.jpg)
 
 This github repository contains the input and resulting graphs of the analysis that I performed on the [8a.nu Logbook](https://www.kaggle.com/dcohen21/8anu-climbing-logbook) information in support of a [Data Story](https://medium.com/@buckthecanuck/climb-through-the-data-with-me-80fb144ea408) I wrote about rock climbing.
 
